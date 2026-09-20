@@ -3,8 +3,7 @@
 A sleek, intuitive web-based platform designed to simplify biological data analysis. This suite provides researchers, students, and bioinformaticians with robust tools to process, visualize, and interpret complex biological datasets directly from their browsers.
 
 ## 🚀 Live Demo
-Check out the live, interactive suite here: **[Insert Your GitHub Pages URL Here]**
-
+Check out the live, interactive suite here: https://bioinformatics-and-analysis-suite-caygav5mhfthessn8fthbn.streamlit.app/
 ---
 
 ## ✨ Features & Usage
